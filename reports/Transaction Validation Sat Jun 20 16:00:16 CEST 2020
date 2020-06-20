@@ -1,0 +1,11 @@
+
+	TRANSACTIONS WITH DUPLICATE REFERENCE
+	------------------------------
+	transactions.Transaction 112806, description: "Clothes from Vincent Bakker"
+	transactions.Transaction 112806, description: "Tickets from Jan King"
+	transactions.Transaction 112806, description: "Subscription for Vincent de Vries"
+
+	TRANSACTIONS WITH INVALID END BALANCE
+	------------------------------
+	transactions.Transaction 199760, description: "Flowers from Daniël King"
+	transactions.Transaction 107360, description: "Subscription from Richard Theuß"
